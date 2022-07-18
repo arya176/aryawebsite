@@ -442,10 +442,12 @@ inset 10px 10px 10px red; */
     width: 20%;
     border: none;
     padding: 30px;
+    margin: 0 5%;
+    
     
    }
    .second-work-descrip {
-    width: 50%;
+    width: 35%;
     padding: 150px 30px;
     font-family: 'Indie Flower', cursive;
     line-height: 35px;
@@ -467,11 +469,12 @@ inset 10px 10px 10px red; */
     width: 20%;
     border: none;
     padding: 30px;
+    margin: 0 5%;
    
     
    }
    .third-work-descrip {
-    width: 50%;
+    width: 35%;
     padding: 150px 30px;
     font-family: 'Indie Flower', cursive;
     line-height: 35px;
@@ -494,10 +497,11 @@ inset 10px 10px 10px red; */
     width: 20%;
     border: none;
     padding: 30px;
+    margin: 0 5%;
     
    }
    .forth-work-descrip {
-    width: 50%;
+    width: 35%;
     padding: 150px 30px;
     font-family: 'Indie Flower', cursive;
     line-height: 35px;
@@ -518,10 +522,11 @@ inset 10px 10px 10px red; */
     width: 20%;
     border: none;
     padding: 30px;
+    margin: 0 5%;
     
    }
    .fifth-work-descrip {
-    width: 50%;
+    width: 35%;
     padding: 150px 30px;
     font-family: 'Indie Flower', cursive;
     line-height: 35px;
