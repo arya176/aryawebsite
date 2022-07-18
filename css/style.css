@@ -38,6 +38,7 @@ nav {
     right: 10%;
     height: 40%;
     width: 30%;
+    opacity: 90%;
 }
 
 .image2 {
@@ -445,7 +446,7 @@ inset 10px 10px 10px red; */
    }
    .second-work-descrip {
     width: 50%;
-    padding: 20px;
+    padding: 150px 30px;
     font-family: 'Indie Flower', cursive;
     line-height: 35px;
     font-size: 1.2rem;
@@ -471,7 +472,7 @@ inset 10px 10px 10px red; */
    }
    .third-work-descrip {
     width: 50%;
-    padding: 20px;
+    padding: 150px 30px;
     font-family: 'Indie Flower', cursive;
     line-height: 35px;
     font-size: 1.2rem;
@@ -497,7 +498,7 @@ inset 10px 10px 10px red; */
    }
    .forth-work-descrip {
     width: 50%;
-    padding: 20px;
+    padding: 150px 30px;
     font-family: 'Indie Flower', cursive;
     line-height: 35px;
     font-size: 1.2rem;
@@ -521,7 +522,7 @@ inset 10px 10px 10px red; */
    }
    .fifth-work-descrip {
     width: 50%;
-    padding: 20px;
+    padding: 150px 30px;
     font-family: 'Indie Flower', cursive;
     line-height: 35px;
     font-size: 1.2rem;
